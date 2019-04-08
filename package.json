@@ -1,0 +1,12 @@
+{
+  "name": "pure_css_hamburger_menu_",
+  "version": "1.0.0",
+  "main": "index.js",
+  "license": "MIT",
+  "scripts": {
+    "sass": "node-sass -w ./scss -o dist/css --recursive"
+  },
+  "dependencies": {
+    "node-sass": "^4.11.0"
+  }
+}
